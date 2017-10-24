@@ -1,0 +1,6 @@
+c:\users\ellij1\documents\visual studio 2012\Projects\WebAppTut\WebAppTut\bin\WebAppTut.dll
+c:\users\ellij1\documents\visual studio 2012\Projects\WebAppTut\WebAppTut\bin\WebAppTut.pdb
+c:\users\ellij1\documents\visual studio 2012\Projects\WebAppTut\WebAppTut\obj\Debug\WebAppTut.csprojResolveAssemblyReference.cache
+c:\users\ellij1\documents\visual studio 2012\Projects\WebAppTut\WebAppTut\obj\Debug\WebAppTut.dll
+c:\users\ellij1\documents\visual studio 2012\Projects\WebAppTut\WebAppTut\obj\Debug\WebAppTut.pdb
+C:\Users\ellij1\documents\visual studio 2012\Projects\WebAppTut\WebAppTut\bin\MySql.Data.dll
